@@ -1,0 +1,27 @@
+html {
+	cursor: url(/img/Stitch_626_new_pointer.png), auto;
+}
+body {
+	text-align: center;
+	background-image: url(/img/london-skyline.png);
+	background-repeat: no-repeat;
+	background-position: center;
+}
+img {
+	padding-top: 25px;
+}
+.cell {
+	display: none;
+}
+.icons {
+	/*border: 1px solid black;*/
+	float: left;
+	width: 150px;
+	height: 150px;
+}
+#container {
+	/*border: 1px solid black;*/
+	width: 456px;
+	height: 456px;
+	margin: auto;
+}
